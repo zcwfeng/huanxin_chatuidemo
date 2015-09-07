@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/zcw/workspace/chatuidemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/zcw/workspace/chatuidemo/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-2496019f95ecba54880e8efd04d8c91d24efff04.jar" />
+    </item>
+    <item
+        jar="/Users/zcw/Android/android_SDK/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/zcw/workspace/chatuidemo/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-62c3d44baf501ff219248248e6fe6a0f6e4dba50.jar" />
+    </item>
+    <item
+        jar="/Users/zcw/workspace/chatuidemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/zcw/workspace/chatuidemo/app/build/intermediates/pre-dexed/debug/classes-c2f5a23508682a49546106380f38963020446565.jar" />
+    </item>
+
+</items>
